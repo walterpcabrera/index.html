@@ -1,1 +1,9 @@
-hola mundo
+<!doctype html>
+<html>
+  <head>
+    <title>hola mundo</title>
+  </head>
+  <body>
+  </body>
+</html>
+
